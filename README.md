@@ -2,7 +2,7 @@
 An AutoHotKey script to send the qwerty equivalent of a dvorak key when the ctrl, alt, and/or win keys are also pressed.
 
 ### Why
-Many common hotkeys are defined based on their useful position on the qwerty keyboard, and it's handy to retain this consistent functionality while using dvorak for regular typing. This option is available out-of-the-box in macOS, but not in Windows.
+Many common hotkeys are defined based on their useful position on the qwerty keyboard, such as cut-copy-paste next to each other in the bottom left. It's handy to retain this consistent functionality while using dvorak for regular typing, but while this option is available out-of-the-box in macOS, it's not in Windows.
 
 ### Why AutoHotKey
 There are several good third-party, open-source keyboard layouts for Windows that provide this functionality. However, some applications override the hotkeys, making them less useful. This includes many of Microsoft's own applications, such as all those in the Office suite and SQL Server Management Studio! This script works in more situations.
