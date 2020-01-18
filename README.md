@@ -1,2 +1,2 @@
 # dvertkey
-AutoHotKey script to send the Qwerty equivalent of a Dvorak key when ctrl, alt, and/or win keys are pressed
+AutoHotKey script to send the qwerty equivalent of a dvorak key when the ctrl, alt, and/or win keys are also pressed
