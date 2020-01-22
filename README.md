@@ -7,7 +7,7 @@ Many common hotkeys are defined based on their useful position on the qwerty key
 ### Why AutoHotKey
 There are several good third-party, open-source keyboard layouts for Windows that provide this functionality. However, some applications override the hotkeys, making them less useful. This includes many of Microsoft's own applications, such as all those in the Office suite and SQL Server Management Studio! This script works in more situations.
 
-Dvertkey only converts from dvorak to qwerty, but it can be configured to detect that the appropriate layout in is use. This means that the script does not have to be disabled if you switch temporarily to qwerty or another layout.
+Dvertkey only converts from dvorak to qwerty, but it can be configured to detect that the appropriate layout is in use. This means that the script does not have to be disabled if you switch temporarily to qwerty or another layout.
 
 ### Requirements
 * Windows
