@@ -23,6 +23,6 @@ Dvertkey only converts from dvorak to qwerty, but it can be configured to detect
   * You could compile it and put a shortcut to it in your startup folder
 
 ### Qwertdvert
-A later edition is qwertdvert.ahk, which inverts the dvertkey pattern, and can be used instead.
+A later addition is qwertdvert.ahk, which inverts the dvertkey pattern, and can be used instead.
 It assumes a qwerty layout is active in Windows, and sends the Dvorak equivalent of a Qwerty key, unless the ctrl, alt, and/or win keys are pressed.
 This is a much simpler implementation for those who would rather turn the script on and off as required, rather than switching between layouts.
